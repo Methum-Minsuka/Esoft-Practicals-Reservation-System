@@ -85,7 +85,7 @@ The system offers two main sets of features:
 - 🔒 **Admin Features**
 - 👤 **User Features**
 
-### 🔒 Admin Features
+## 🔒 Admin Features
 
 1. **Secure Login Access**
 
@@ -234,7 +234,7 @@ Admins can export all system data as a backup in either **Microsoft Excel** or *
 > 🔐 Ensures data safety and gives flexibility for offline review or audits.
 
 
-### 👤 User Features
+## 👤 User Features
 
 1. **Create Account**  
    Students can register themselves by entering their details.
