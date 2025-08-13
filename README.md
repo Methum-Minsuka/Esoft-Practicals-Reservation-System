@@ -235,3 +235,42 @@ Admins can export all system data as a backup in either **Microsoft Excel** or *
 
 
 ## 👤 User Features
+
+1. **Create Account**  
+
+   New students must first create an account before using the reservation system.  
+
+   During registration, students are required to provide the following details:  
+   - 🧍 **First Name**  
+   - 🧍‍♂️ **Last Name**  
+   - 🆔 **Registration Number**  
+   - 🔢 **Batch Number**  
+   - 🏷️ **Course Category** (Certificate, Diploma, Extended Batch, HND)  
+
+   Once the account is created, the student will be added to the system’s database and can proceed to log in and make reservations.  
+
+---
+
+2. **Login with Registration Number**  
+
+   - Students can log into the system by simply entering their **Registration Number**.  
+   - The login process is quick and secure, ensuring only registered students can access reservation features.  
+   - Upon successful login, the system will display the student’s dashboard with available booking options.  
+
+---
+
+3. **Make a Reservation**  
+
+   - Students can select a **date**, **time slot**, and the **specific PC number** they wish to reserve.  
+   - The system will automatically prevent bookings on:  
+     - 📅 Holiday dates marked by the admin  
+     - ⛔ Blocked PCs  
+     - ⚖️ Weeks where the student has reached their reservation limit  
+   - **Real-time PC Availability**:  
+     - If another student has already reserved a PC for the selected **date** and **time slot**, that PC will be displayed in **red**.  
+     - Clicking on a red (reserved) PC will show the details of the student who booked it.  
+   - Once confirmed, the reservation will be saved in the database and visible in the student’s booking history.  
+
+![Make a Reservation](https://drive.google.com/uc?export=view&id=1mmMGwdTL9tCzYN-f0UKeRxwRNL_0wf7i)
+
+> ✅ This simple process ensures students can conveniently secure their practical session without scheduling conflicts.
